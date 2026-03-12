@@ -25,9 +25,4 @@ The dataset used for this analysis is `Unemployment in India.csv`. It contains i
 7.  **Relationship between Unemployment and Labor Participation**: Explored the relationship between unemployment rate and labor participation rate using scatter plots.
 8.  **Impact of COVID-19**: Analyzed the unemployment rate before and after March 2020 (considered as the onset of the COVID-19 pandemic) to understand its impact.
 
-## How to Use This Notebook
-1.  **Clone the Repository**: Clone this GitHub repository to your local machine.
-2.  **Open in Google Colab**: Upload the notebook (`.ipynb` file) to Google Colab.
-3.  **Upload Dataset**: Ensure the `Unemployment in India.csv` file is present in the Colab environment (e.g., by uploading it or mounting Google Drive).
-4.  **Run Cells**: Execute the code cells sequentially. The notebook is structured to perform data loading, cleaning, analysis, and visualization steps in order.
-5.  **Interpret Results**: Review the generated plots and printed outputs to understand the unemployment trends and patterns.
+
